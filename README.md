@@ -52,5 +52,3 @@ The app will run by default on `http://localhost:3000` unless configured otherwi
 - If you see build errors, delete `.next` and try again: `rm -rf .next && npm run build` (use Windows equivalent `rd /s /q .next` in PowerShell).
 - Ensure Node and package manager versions match team recommendations.
 - For CI, prefer `npm ci` or the package-manager's lockfile-aware install.
-
-If you'd like, I can also add a small `CONTRIBUTING.md` or a `.env.example` file with common variables — want me to add either?
